@@ -1,5 +1,4 @@
 
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=24527A&center=true&vCenter=true&width=600&lines=Computer+Science;QA+Trainee;Manual+Testing;Software+Quality+Assurance" alt="Typing SVG" />
 </p>
@@ -43,11 +42,11 @@
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_LINK">
+<a href="www.linkedin.com/in/yousef-bani-taha-084822373">
   <img src="https://img.shields.io/badge/LinkedIn-24527A?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="yousefbt4@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-24527A?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
