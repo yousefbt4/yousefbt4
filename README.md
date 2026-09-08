@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋, I'm Yousef Bani Taha
 
-<!--
-**yousefbt4/yousefbt4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Graduate  
+🧪 QA Trainee | Manual Testing
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Manual Testing
+- Test Cases
+- Bug Reporting
+- Regression Testing
+- SQL
+- PostgreSQL
+- Git & GitHub
+
+## Currently Learning
+
+- Test Automation
+- Software Quality Assurance
+
+## Connect With Me
+
+🔗 LinkedIn: [Yousef Bani Taha](www.linkedin.com/in/yousef-bani-taha-084822373)
