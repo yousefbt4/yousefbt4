@@ -1,4 +1,3 @@
-# Hi 👋, I'm Yousef Bani Taha
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Computer+Science;QA+Trainee;Manual+Testing;Software+Quality+Assurance" alt="Typing SVG" />
