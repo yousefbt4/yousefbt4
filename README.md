@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 Computer Science  
+🎓 Computer Science graduate
 🧪 QA Trainee focused on Software Quality Assurance  
 🔍 Interested in Manual Testing and Software Testing  
 💡 Currently developing my skills in QA and Test Automation
