@@ -30,8 +30,6 @@
 - Software Testing
 - Software Quality Assurance
 - Computer Science
-- SQL
-- PostgreSQL
 - Git & GitHub
 
 ---
@@ -41,7 +39,6 @@
 - Software Quality Assurance
 - Manual Testing
 - Software Testing
-- Writing effective Test Cases
 - Bug Reporting
 
 ---
