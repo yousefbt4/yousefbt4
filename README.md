@@ -1,8 +1,7 @@
 <div align="center">
 
 
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C7FF&center=true&vCenter=true&width=500&lines=QA+Trainee;Manual+Testing;Software+Quality+Assurance;Computer+Science+Graduate" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C7FF&center=true&vCenter=true&width=500&lines=QA+Trainee;Manual+Testing;Software+Quality+Assurance;Computer+Science" />
 
 <p>
   <img src="https://img.shields.io/badge/QA-Trainee-blue?style=for-the-badge" />
@@ -17,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 Computer Science   
+🎓 Computer Science  
 🧪 QA Trainee focused on Software Quality Assurance  
 🔍 Interested in Manual Testing and Software Testing  
 💡 Currently developing my skills in QA and Test Automation
