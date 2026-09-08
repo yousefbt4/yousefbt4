@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Yousef Bani Taha
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C7FF&center=true&vCenter=true&width=500&lines=QA+Trainee;Manual+Testing;Software+Quality+Assurance;Computer+Science+Graduate" />
 
@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 Computer Science Graduate  
+🎓 Computer Science   
 🧪 QA Trainee focused on Software Quality Assurance  
 🔍 Interested in Manual Testing and Software Testing  
 💡 Currently developing my skills in QA and Test Automation
